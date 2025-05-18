@@ -18,3 +18,6 @@ This project simulates a scrolling LED matrix display that shows transcribed spe
 ```bash
 pip install pygame SpeechRecognition pyaudio
 python voice_display.py
+
+## 🎥 Demo
+👉 [Watch the project demo on LinkedIn]https://www.linkedin.com/feed/update/urn:li:activity:7329801374588682240/
